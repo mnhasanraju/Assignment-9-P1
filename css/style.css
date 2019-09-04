@@ -1,0 +1,1003 @@
+/* Author Name: Md. Nazmul Hasan
+	Author Info: mnhasanraju@gmail.com;
+*/
+
+/*
+==== Index ====
+
+	1. Home
+	2. About Us
+	3. Our Service
+	4. Prices
+	5. Contact
+
+==================
+*/
+
+/* Global CSS */
+
+h1 {
+
+}
+
+h2 {
+
+}
+
+p{
+
+}
+
+section {
+	width: 100%;
+	float: left;
+	margin: 0 auto;
+
+}
+
+
+/* Theme CSS */
+
+/* -- Banner Section Start -- */ 
+.banner-section {
+	width: 100%;
+	float: left;
+	margin: 0 auto;
+	background: url(../img/banner.jpg) center top;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+
+}
+
+.heading {
+	padding-top: 40px;
+
+}
+
+.head-col {
+	
+
+}
+
+.logo-img {
+	margin-top: 17px;
+    margin-left: 20px;
+}
+
+.cstm-link {
+	color: #ffff;
+}
+
+.cstm-link:hover {
+	color: red;
+}
+
+
+.contnr-head {
+	text-align: center;
+	padding-bottom: 230px;
+
+}
+
+.banner-head {
+	font-family: 'Lato', sans-serif;
+	font-size: 46px;
+	color: #ffff;
+	text-transform: uppercase;
+	padding-top: 220px;
+	font-weight: lighter;
+}
+
+
+
+.banner-head-span {
+	font-family: 'Lato', sans-serif;
+	font-size: 47px;
+	color: #ffff;
+	font-weight: bold;
+}
+
+.banner-head-span-2 {
+	width: 200px;
+	border-bottom: 2px solid #ed145b;
+	display: block;
+	margin: 0 auto;
+	padding-top: 35px;
+}
+
+.banner-prg {
+	font-family: 'Lato', sans-serif;
+	font-size: 22px;
+	color: #ffff;
+	font-weight: lighter;
+	padding-top: 40px;
+	padding-bottom: 65px;
+
+}
+
+.btn-banner {
+	padding: 5px 30px;
+    border-radius: 2em;
+    background-color: #ed145b;
+    color: #ffff;
+    text-transform: uppercase;
+
+}
+
+.btn-banner:hover {
+	background-color: #ed145b;
+    color: #ffff;
+
+}
+/*-- Banner Section End --*/
+
+
+/*-- About Us Section Start --*/
+.about-section {
+	width: 100%;
+	float: left;
+	margin: 0 auto;
+	background-color: #f4f4f4;
+	
+}
+
+.abt-top-img {
+	position: absolute;
+}
+
+.abt-us {
+	padding-top: 110px;
+	text-align: left;
+
+}
+
+.abt-text-col {
+	padding-bottom: 30px;
+
+}
+
+.abt-head {
+	font-family: 'Lato', sans-serif;
+	font-size: 35px;
+	color: #5a5a5a;
+	font-weight: lighter;
+
+}
+
+.abt-head-span {
+	width: 200px;
+	border-bottom: 1px solid #ed145b;
+	display: block;
+	padding-top: 20px;
+
+}
+
+.abt-prg {
+	font-family: 'Lato', sans-serif;
+	font-size: 13px;
+	color: #5a5a5a;
+	font-weight: lighter;
+	padding-top: 20px;
+	margin-right: 43px;
+	padding-bottom: 1px;
+
+}
+
+.btn-abt {
+	padding: 5px 30px;
+    border-radius: 2em;
+    color: #ed145b;
+    text-transform: uppercase;
+
+}
+
+.fa.fa-play-circle-o {
+	font-size: 20px;
+	color: #ed145b;
+
+}
+
+
+.abt-img-mac {
+	position: absolute;
+    bottom: -30px;
+
+}
+
+.pic-col {
+	position: relative;
+
+}
+/*-- About Us Section End --*/
+
+
+/*-- Service Section Start --*/
+
+.service-section {
+	width: 100%;
+	float: left;
+	margin: 0 auto;
+}
+
+.service-head {
+	font-family: 'Lato', sans-serif;
+	font-size: 38px;
+	font-style: italic;
+	text-align: center;
+	padding-top: 140px;
+
+}
+
+.service-head-span {
+	width: 200px;
+	border-bottom: 1px solid #ed145b;
+	display: block;
+	padding-top: 20px;
+	margin: 0 auto;
+
+}
+
+.service-prg {
+    font-family: 'Lato', sans-serif;
+    font-size: 13px;
+    color: #5a5a5a;
+    font-weight: lighter;
+    padding-top: 20px;
+    padding-bottom: 1px;
+    margin: 0px 266px;
+    text-align: center;
+}
+
+.service-pic-row {
+	padding-top: 90px;
+	padding-bottom: 100px;
+
+}
+
+.service-col-content {
+	text-align: center;
+	margin: 0 auto;
+
+}
+
+.service-pic-head {
+	color: #ed145b;
+	font-size: 15px;
+	padding-top: 30px;
+}
+
+/*-- Service Section End --*/
+
+
+/*-- Quotes Section Start --*/
+.quote-section {
+	width: 100%;
+	float: left;
+	margin: 0 auto;
+	background: url(../img/banner.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+
+}
+
+.quote-h {
+	font-size: 160px;
+	color: #ed145b;
+	text-align: center;
+	font-family: 'Sansita', sans-serif;
+
+}
+
+.quote-prg {
+	font-size: 20px;
+	color: #ffff;
+	text-align: center;
+
+}
+/*-- Quotes Section End --*/
+
+
+/*-- Price Section Start --*/
+.price-section {
+	width: 100%;
+	float: left;
+	margin: 0 auto;
+	background-color: #f4f4f4;
+	padding-bottom: 120px;
+}
+
+.price-head {
+	padding-top: 140px;
+	font-family: 'Lato', sans-serif;
+    font-size: 38px;
+    font-style: italic;
+    font-weight: lighter;
+    text-align: center;
+
+
+}
+
+.price-head-span {
+	width: 200px;
+	border-bottom: 1px solid #ed145b;
+	display: block;
+	padding-top: 20px;
+	margin: 0 auto;
+
+}
+
+.price-prg {
+	font-family: 'Lato', sans-serif;
+    font-size: 13px;
+    color: #5a5a5a;
+    font-weight: lighter;
+    padding-top: 20px;
+    padding-bottom: 1px;
+    margin: 0px 266px;
+    text-align: center;
+}
+
+.price-row {
+	padding-top: 90px;
+
+}
+
+.price-col {
+
+}
+
+.price-col-prg {
+	text-align: center;
+	border: 2px solid #5a5a5a;
+	display: block;
+	background-color: #5a5a5a;
+	color: #f4f4f4;
+	padding-top: 25px;
+	padding-bottom: 50px;
+	position: relative;
+	margin-bottom: 0px;
+
+}
+
+.price-col-prg-39 {
+	text-align: center;
+	border: 2px solid #ed145b;
+	display: block;
+	background-color: #ed145b;
+	color: #f4f4f4;
+	padding-top: 25px;
+	padding-bottom: 50px;
+	position: relative;
+	margin-bottom: 0px;
+
+}
+
+.price-col-spn {
+	font-family: 'Lato', sans-serif;
+	font-weight: bold;
+	font-size: 40px;
+}
+
+.price-type-prg {
+	
+	border: 2px solid #f4f4f4;
+	display: block;
+	background-color: #f4f4f4;
+	color: #5a5a5a;
+	position: absolute;
+	padding: 10px 40px;
+	border-radius: 3em;
+	right: 70px;
+	top: 135px;
+}
+
+
+.price-col-ulli {
+	list-style: none;
+	line-height: 40px;
+	background-color: #ffff;
+	padding: 0px;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 40px;
+
+}
+
+.btn-buy-now {
+	padding: 5px 30px;
+    border-radius: 2em;
+    background-color: #ed145b;
+    color: #ffff;
+    text-transform: uppercase;
+    margin-top: 30px;
+
+}
+
+.btn-buy-now:hover {
+	background-color: #ed145b;
+    color: #ffff;
+}
+/*-- Price Section End --*/
+
+
+
+/*-- Additional Info Section Start --*/
+.additional-info-section {
+	background: #ffffff;
+
+}
+
+.adn-cont-cstm {
+	padding-top: 80px;
+	padding-bottom: 70px;
+}
+
+.additional-row-one {
+	padding-top: 40px;
+
+}
+
+.adn-col-one {
+
+}
+
+.adn-content-one-row {
+
+}
+
+.adn-inf-hd {
+	color: #ed145b;
+
+}
+
+.adn-inf-txt {
+
+}
+/*-- Additional Info Section End --*/
+
+
+
+
+
+
+/*-- Test Section Start --*/
+/*-- Test Section End --*/
+
+
+
+/* Mobile Device */
+@media (min-width: 320px) and (max-width: 549px)
+{
+
+/* -- Banner Section Start -- */
+.heading {
+	padding-top: 20px;
+
+}
+
+.cstm-link {
+	color: #ffff;
+	font-size: 12px;
+}
+
+.contnr-head {
+	text-align: center;
+	padding-bottom: 50px;
+
+}
+
+.banner-head {
+	font-family: 'Lato', sans-serif;
+	font-size: 20px;
+	color: #ffff;
+	text-transform: uppercase;
+	padding-top: 50px;
+	font-weight: lighter;
+}
+
+.banner-head-span {
+	font-family: 'Lato', sans-serif;
+	font-size:21px;
+	color: #ffff;
+	font-weight: bold;
+}
+
+.banner-head-span-2 {
+	width: 150px;
+	border-bottom: 1px solid #ed145b;
+	display: block;
+	margin: 0 auto;
+	padding-top: 20px;
+}
+
+.banner-prg {
+	font-family: 'Lato', sans-serif;
+	font-size: 12px;
+	color: #ffff;
+	font-weight: lighter;
+	padding-top: 22px;
+	padding-bottom: 35px;
+
+}
+
+
+
+/* -- Banner Section End */
+
+
+/*-- About Us Section Start --*/
+.abt-us {
+	padding-top: 50px;
+	text-align: left;
+
+}
+
+
+.abt-text-col {
+	padding-bottom: 20px;
+
+}
+
+
+.abt-head {
+	font-family: 'Lato', sans-serif;
+	font-size: 18px;
+	color: #5a5a5a;
+	font-weight: lighter;
+
+}
+
+.abt-head-span {
+	width: 150px;
+	border-bottom: 1px solid #ed145b;
+	display: block;
+	padding-top: 20px;
+	margin: 0px auto;
+
+}
+
+.abt-prg {
+	font-family: 'Lato', sans-serif;
+	font-size: 13px;
+	color: #5a5a5a;
+	font-weight: lighter;
+	padding-top: 20px;
+	margin-right: 5px;
+	padding-bottom: 2px;
+
+}
+
+.abt-img-mac {
+	position: unset;
+	
+ }
+
+ .pic-col {
+
+}
+/*-- About Us Section End --*/
+
+
+/*-- Service Section Start --*/
+.service-head {
+	font-family: 'Lato', sans-serif;
+	font-size: 21px;
+	font-style: italic;
+	text-align: center;
+	padding-top: 60px;
+
+}
+
+.service-head-span {
+	width: 150px;
+	border-bottom: 1px solid #ed145b;
+	display: block;
+	padding-top: 20px;
+	margin: 0 auto;
+
+}
+
+.service-prg {
+    font-family: 'Lato', sans-serif;
+    font-size: 13px;
+    color: #5a5a5a;
+    font-weight: lighter;
+    padding-top: 10px;
+    padding-bottom: 1px;
+    margin: 0px auto;
+    text-align: center;
+}
+
+.service-pic-row {
+	padding-top: 40px;
+	padding-bottom: 20px;
+
+}
+
+.service-pic-head {
+	color: #ed145b;
+	font-size: 14px;
+	padding-top: 10px;
+	padding-bottom: 25px;
+}
+/*-- Service Section End --*/
+
+
+
+/*-- Quotes Section Start --*/
+
+.quote-h {
+	font-size: 80px;
+	color: #ed145b;
+	text-align: center;
+	font-family: 'Sansita', sans-serif;
+
+}
+
+.quote-prg {
+	font-size: 13px;
+	color: #ffff;
+	text-align: center;
+
+}
+/*-- Quotes Section End --*/
+
+
+
+/*-- Price Section Start --*/
+.price-section {
+	
+	padding-bottom: 60px;
+}
+
+.price-head {
+	padding-top: 40px;
+	font-family: 'Lato', sans-serif;
+    font-size: 21px;
+    font-style: italic;
+    font-weight: lighter;
+    text-align: center;
+}
+
+.price-head-span {
+	width: 150px;
+	border-bottom: 1px solid #ed145b;
+	display: block;
+	padding-top: 15px;
+	margin: 0 auto;
+}
+
+.price-prg {
+	font-family: 'Lato', sans-serif;
+    font-size: 13px;
+    color: #5a5a5a;
+    font-weight: lighter;
+    padding-top: 15px;
+    padding-bottom: 1px;
+    margin: 0px auto;
+    text-align: center;
+}
+
+.price-row {
+	padding-top: 50px;
+}
+
+.price-type-prg {
+	
+	border: 2px solid #f4f4f4;
+	display: block;
+	background-color: #f4f4f4;
+	color: #5a5a5a;
+	position: absolute;
+	padding: 10px 40px;
+	border-radius: 3em;
+	right: 115px;
+	top: 135px;
+}
+
+.price-col-ulli {
+	list-style: none;
+	line-height: 25px;
+	background-color: #ffff;
+	padding: 0px;
+	text-align: center;
+	padding-top: 40px;
+	padding-bottom: 30px;
+
+}
+
+.btn-buy-now {
+	padding: 5px 30px;
+    border-radius: 2em;
+    background-color: #ed145b;
+    color: #ffff;
+    text-transform: uppercase;
+    margin-top: 15px;
+}
+/*-- Price Section End --*/
+
+
+/*-- Additional Info Section Start --*/
+.adn-cont-cstm {
+	padding-top: 30px;
+	padding-bottom: 50px;
+}
+
+.additional-row-one {
+	padding-top: 30px;
+
+}
+
+}
+
+
+
+/* Tab Device */
+
+@media (min-width: 501px) and (max-width: 768px)
+{
+
+
+/* -- Banner Section Start -- */
+.heading {
+	padding-top: 20px;
+
+}
+
+.cstm-link {
+	color: #ffff;
+	font-size: 12px;
+}
+
+.contnr-head {
+	text-align: center;
+	padding-bottom: 50px;
+
+}
+
+.banner-head {
+	font-family: 'Lato', sans-serif;
+	font-size: 20px;
+	color: #ffff;
+	text-transform: uppercase;
+	padding-top: 50px;
+	font-weight: lighter;
+}
+
+.banner-head-span {
+	font-family: 'Lato', sans-serif;
+	font-size:21px;
+	color: #ffff;
+	font-weight: bold;
+}
+
+.banner-head-span-2 {
+	width: 150px;
+	border-bottom: 1px solid #ed145b;
+	display: block;
+	margin: 0 auto;
+	padding-top: 20px;
+}
+
+.banner-prg {
+	font-family: 'Lato', sans-serif;
+	font-size: 12px;
+	color: #ffff;
+	font-weight: lighter;
+	padding-top: 22px;
+	padding-bottom: 35px;
+
+}
+
+
+
+/* -- Banner Section End */
+
+
+/*-- About Us Section Start --*/
+.abt-us {
+	padding-top: 50px;
+	text-align: left;
+
+}
+
+
+.abt-text-col {
+	padding-bottom: 20px;
+
+}
+
+
+.abt-head {
+	font-family: 'Lato', sans-serif;
+	font-size: 18px;
+	color: #5a5a5a;
+	font-weight: lighter;
+
+}
+
+.abt-head-span {
+	width: 150px;
+	border-bottom: 1px solid #ed145b;
+	display: block;
+	padding-top: 20px;
+	margin: 0px auto;
+
+}
+
+.abt-prg {
+	font-family: 'Lato', sans-serif;
+	font-size: 13px;
+	color: #5a5a5a;
+	font-weight: lighter;
+	padding-top: 20px;
+	margin-right: 5px;
+	padding-bottom: 2px;
+
+}
+
+.abt-img-mac {
+	position: unset;
+		
+ }
+
+ .pic-col {
+
+}
+/*-- About Us Section End --*/
+
+
+/*-- Service Section Start --*/
+.service-head {
+	font-family: 'Lato', sans-serif;
+	font-size: 21px;
+	font-style: italic;
+	text-align: center;
+	padding-top: 60px;
+
+}
+
+.service-head-span {
+	width: 150px;
+	border-bottom: 1px solid #ed145b;
+	display: block;
+	padding-top: 20px;
+	margin: 0 auto;
+
+}
+
+.service-prg {
+    font-family: 'Lato', sans-serif;
+    font-size: 13px;
+    color: #5a5a5a;
+    font-weight: lighter;
+    padding-top: 10px;
+    padding-bottom: 1px;
+    margin: 0px auto;
+    text-align: center;
+}
+
+.service-pic-row {
+	padding-top: 40px;
+	padding-bottom: 20px;
+
+}
+
+.service-pic-head {
+	color: #ed145b;
+	font-size: 14px;
+	padding-top: 10px;
+	padding-bottom: 25px;
+}
+/*-- Service Section End --*/
+
+
+
+/*-- Quotes Section Start --*/
+
+.quote-h {
+	font-size: 80px;
+	color: #ed145b;
+	text-align: center;
+	font-family: 'Sansita', sans-serif;
+
+}
+
+.quote-prg {
+	font-size: 13px;
+	color: #ffff;
+	text-align: center;
+
+}
+/*-- Quotes Section End --*/
+
+
+
+/*-- Price Section Start --*/
+.price-section {
+	
+	padding-bottom: 60px;
+}
+
+.price-head {
+	padding-top: 40px;
+	font-family: 'Lato', sans-serif;
+    font-size: 21px;
+    font-style: italic;
+    font-weight: lighter;
+    text-align: center;
+}
+
+.price-head-span {
+	width: 150px;
+	border-bottom: 1px solid #ed145b;
+	display: block;
+	padding-top: 15px;
+	margin: 0 auto;
+}
+
+.price-prg {
+	font-family: 'Lato', sans-serif;
+    font-size: 13px;
+    color: #5a5a5a;
+    font-weight: lighter;
+    padding-top: 15px;
+    padding-bottom: 1px;
+    margin: 0px auto;
+    text-align: center;
+}
+
+.price-row {
+	padding-top: 50px;
+}
+
+.price-type-prg {
+	
+	border: 2px solid #f4f4f4;
+	display: block;
+	background-color: #f4f4f4;
+	color: #5a5a5a;
+	position: absolute;
+	padding: 10px 40px;
+	border-radius: 3em;
+	right: 115px;
+	top: 135px;
+}
+
+.price-col-ulli {
+	list-style: none;
+	line-height: 25px;
+	background-color: #ffff;
+	padding: 0px;
+	text-align: center;
+	padding-top: 40px;
+	padding-bottom: 30px;
+
+}
+
+.btn-buy-now {
+	padding: 5px 30px;
+    border-radius: 2em;
+    background-color: #ed145b;
+    color: #ffff;
+    text-transform: uppercase;
+    margin-top: 15px;
+}
+/*-- Price Section End --*/
+
+
+/*-- Additional Info Section Start --*/
+.adn-cont-cstm {
+	padding-top: 30px;
+	padding-bottom: 50px;
+}
+
+.additional-row-one {
+	padding-top: 30px;
+
+}
+
+
+}
